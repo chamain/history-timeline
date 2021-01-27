@@ -1,9 +1,15 @@
 ## Welcome to the **Timeline**
 
-Here I list the major event as I encounter them in my readings.
+Here I list the major event as I encounter them in my readings. All years are in CE/AD (Common Era/Ano Domini)
 
+## General
+- Birth of Jesus: 0 CE
 ## Buddhism
+- Birth of lord Buddha
+- Enlightment of lord Buddha
+- Passing away of load Buddha
 ## Sri Lankan History
+- King Vijaya's arival 
 ## Literature
 
 You can use the [editor on GitHub](https://github.com/chamain/history-timeline/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
