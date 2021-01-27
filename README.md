@@ -2,9 +2,9 @@
 
 Here I list the major event as I encounter them in my readings.
 
-# Buddhism
-# Sri Lankan History
-# Literature
+## Buddhism
+## Sri Lankan History
+## Literature
 
 You can use the [editor on GitHub](https://github.com/chamain/history-timeline/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
